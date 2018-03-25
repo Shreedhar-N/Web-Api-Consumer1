@@ -1,0 +1,12 @@
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\bin\Debug\netcoreapp2.0\WebAPIConsumer.dll.config
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\bin\Debug\netcoreapp2.0\WebAPIConsumer.deps.json
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\bin\Debug\netcoreapp2.0\WebAPIConsumer.runtimeconfig.json
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\bin\Debug\netcoreapp2.0\WebAPIConsumer.runtimeconfig.dev.json
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\bin\Debug\netcoreapp2.0\WebAPIConsumer.dll
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\bin\Debug\netcoreapp2.0\WebAPIConsumer.pdb
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\obj\Debug\netcoreapp2.0\WebAPIConsumer.csprojResolveAssemblyReference.cache
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\obj\Debug\netcoreapp2.0\WebAPIConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\obj\Debug\netcoreapp2.0\WebAPIConsumer.AssemblyInfoInputs.cache
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\obj\Debug\netcoreapp2.0\WebAPIConsumer.AssemblyInfo.cs
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\obj\Debug\netcoreapp2.0\WebAPIConsumer.dll
+C:\Users\Shreedhar\source\repos\InterviewStringQuestions\InterviewStringQuestions\obj\Debug\netcoreapp2.0\WebAPIConsumer.pdb

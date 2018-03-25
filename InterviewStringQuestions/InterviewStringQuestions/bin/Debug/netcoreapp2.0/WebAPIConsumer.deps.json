@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "b041801eb1fd74059fa1ec9399b236ab7e7995c5"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "WebAPIConsumer/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "System.Configuration.Abstractions": "2.0.2.37"
+        },
+        "runtime": {
+          "WebAPIConsumer.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.Configuration.Abstractions/2.0.2.37": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "4.4.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.Abstractions.NetStandard.dll": {}
+        }
+      },
+      "System.Configuration.ConfigurationManager/4.4.1": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebAPIConsumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "System.Configuration.Abstractions/2.0.2.37": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2UEndEp2lim8FlKHAKImq/5fJvBRYZpykBw11LbZSNnnnrpF0POvYxYbxxuqxjQXMi5UQXwcWOaELANCx7qCPw==",
+      "path": "system.configuration.abstractions/2.0.2.37",
+      "hashPath": "system.configuration.abstractions.2.0.2.37.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jz3TWKMAeuDEyrPCK5Jyt4bzQcmzUIMcY9Ud6PkElFxTfnsihV+9N/UCqvxe1z5gc7jMYAnj7V1COMS9QKIuHQ==",
+      "path": "system.configuration.configurationmanager/4.4.1",
+      "hashPath": "system.configuration.configurationmanager.4.4.1.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cJV7ScGW7EhatRsjehfvvYVBvtiSMKgN8bOVI0bQhnF5bU7vnHVIsH49Kva7i7GWaWYvmEzkYVk1TC+gZYBEog==",
+      "path": "system.security.cryptography.protecteddata/4.4.0",
+      "hashPath": "system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+    }
+  }
+}
