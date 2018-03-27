@@ -1,0 +1,31 @@
+Provider.cs
+public static class DataProvider
+    {
+        static readonly string connectionString;
+        static DataProvider()
+        {
+            connectionString = ConfigurationManager.ConnectionStrings["connstr"].ConnectionString;
+            string app = ConfigurationManager.AppSettings["Test"];
+
+        }
+
+        public static IDatabase Connection
+        {
+            get
+            {
+                return new Database(connectionString, DatabaseType.SqlServer2012, SqlClientFactory.Instance);
+            }
+        }
+    }
+	
+
+--Adding new config:
+	<connectionStrings configSource="Connection.DEV.config" />
+	
+	
+	--Rrpositery
+	 private static readonly IDatabase _db;
+        static ProductRepository()
+        {
+            _db = DataProvider.Connection;
+        }
